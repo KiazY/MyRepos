@@ -4,7 +4,9 @@
   "appSourceCopMandatoryAffixes": [
     "<affix>"
   ],
-  "appFolders": [],
+  "appFolders": [
+    "Projeto Teste"
+  ],
   "testFolders": [],
   "bcptTestFolders": []
 }

@@ -6,7 +6,7 @@ namespace DefaultPublisher.ProjetoTeste;
 
 using Microsoft.Sales.Customer;
 
-pageextension 50000 CustomerListExt extends "Customer List"
+pageextension 55000 CustomerListExt extends "Customer List"
 {
     trigger OnOpenPage();
     begin

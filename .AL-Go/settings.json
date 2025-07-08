@@ -9,11 +9,13 @@
   ],
   "testFolders": [],
   "bcptTestFolders": [],
-  "ConditionalSettings": {
-    "settings": {
-      "userCompilerFolder": true,
-      "doNotPublishApps": true,
-      "doNotSignApps": true
+  "ConditionalSettings": [
+    {
+      "settings": {
+        "userCompilerFolder": true,
+        "doNotPublishApps": true,
+        "doNotSignApps": true
+      }
     }
-  }
+  ]
 }

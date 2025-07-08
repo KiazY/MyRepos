@@ -8,5 +8,14 @@
     "Projeto Teste"
   ],
   "testFolders": [],
+  "bcptTestFolders": [],
+  "ConditionalSettings": {
+    "settings": {
+      "userCompilerFolder": true,
+      "doNotPublishApps": true,
+      "doNotSignApps": true
+    }
+  }
+=======
   "bcptTestFolders": []
 }

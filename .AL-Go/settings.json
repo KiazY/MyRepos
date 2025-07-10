@@ -15,5 +15,6 @@
   "enableCodeCop": false,
   "enableUICop": false,
   "enableAppSourceCop": false,
-  "generateDependencyArtifact": true
+  "generateDependencyArtifact": true,
+  "repoVersion": "1.1"
 }

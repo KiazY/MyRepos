@@ -17,5 +17,9 @@
         "doNotSignApps": true
       }
     }
-  ]
+  ],
+  "partnerTelemetryConnectionString": "InstrumentationKey=241301c5-c26c-4d16-a77c-262b8b2fb1c4;IngestionEndpoint=https://westeurope-5.in.applicationinsights.azure.com/;LiveEndpoint=https://westeurope.livediagnostics.monitor.azure.com/;ApplicationId=874cd6e4-5e60-4161-9040-80b256de6751",
+  "doNotSignApps": true,
+  "doNotPublishApps": true,
+  "userCompilerFolder": true
 }

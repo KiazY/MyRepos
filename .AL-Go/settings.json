@@ -14,5 +14,6 @@
   "userCompilerFolder": true,
   "enableCodeCop": false,
   "enableUICop": false,
-  "enableAppSourceCop": false
+  "enableAppSourceCop": false,
+  "generateDependencyArtifact": true
 }

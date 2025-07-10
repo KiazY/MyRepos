@@ -16,5 +16,6 @@
   "enableUICop": false,
   "enableAppSourceCop": false,
   "generateDependencyArtifact": true,
-  "repoVersion": "1.1"
+  "repoVersion": "1.1",
+  "templateBranch": "test_CI/CD"
 }
